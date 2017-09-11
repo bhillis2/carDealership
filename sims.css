@@ -1,0 +1,65 @@
+body{
+
+}
+h2{
+  color:red;
+  font-size: 250%;
+  margin-left: 42%;
+}
+h3{
+  color:white;
+  font-size: 200%;
+  margin-left:43%;
+}
+.container{
+background-color: black;
+margin:0 auto;
+padding:0;
+}
+.top{
+display:block;
+
+width: 100%;
+height: auto;
+}
+.imgHolder{
+  margin-top: 3%;
+  margin-left: 35%;
+  width: 100%;
+  height: 100%;
+}
+img{
+
+}
+.middle{
+    background-color: black;
+  width: 100%;
+  height: auto;
+}
+.bottom{
+  background-color: black;
+  width: 100%;
+height: auto;
+}
+#car{
+  width: 550px;
+  height: 405px;
+}
+.salesStaff{
+  height: 500px;
+  width: 100%;
+  background-color: red;
+  color:white;
+}
+#jon{
+  float:left;
+  padding-left:11%;
+}
+#dave{
+  float:left;
+    padding-left:11%;
+}
+#mike{
+  float:left;
+  padding-left:11%;
+}
